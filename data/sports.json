@@ -1,0 +1,10 @@
+{
+    "sports": [
+        {
+            "id": 1,
+            "name": "Football",
+            "slug": "football",
+            "active": true
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "selections": [
+        {
+            "id": "1",
+            "name": "Football",
+            "event": "euro 2024",
+            "active": true,
+            "price": 1.5,
+            "outcome": "Win"
+        }
+    ]
+}

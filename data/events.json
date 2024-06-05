@@ -1,0 +1,18 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "European Championships 2024",
+            "slug": "euro 2024",
+            "active": true,
+            "type": "inplay",
+            "sport": [
+                {"id": 1, "name": "Football"},
+                {"id": 2, "name": "Tennis"}
+            ],
+            "status": "Pending",
+            "scheduled_start": "2024-06-12T00:00:00Z",
+            "actual_start": "2024-06-12T00:00:00Z"
+        }
+    ]
+}
