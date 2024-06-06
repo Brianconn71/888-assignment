@@ -10,7 +10,7 @@ class Sport(BaseModel):
     active: bool
 
 
-with open('../data/sports.json') as f:
-    sport = json.load(f)['sports']
-
-print(sport)
+def open_sports_json():
+    with open('../data/sports.json') as f:
+        sport = json.load(f)['sports']
+    return sport
